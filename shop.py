@@ -1,1 +1,4 @@
-print("welocme in my shop")
+def shop():
+    print("Welecom in my shop")
+
+shop()
